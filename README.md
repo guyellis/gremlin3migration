@@ -5,6 +5,12 @@ A humble help to move code from Gremlin 2 to Gremlin 3.
 ## API matches
 List of Gremlin 2 API, and their Gremlin 3 equivalent (or not).
 
+All examples given in the context of the Modern Graph:
+```
+graph = TinkerFactory.createModern()
+g = graph.traversal()
+```
+
 ###_
 
 ###both
